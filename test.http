@@ -1,0 +1,6 @@
+post https://videoallapi.medionbd.com/virtual-auth
+Content-Type: application/json
+
+{
+    "contact_number": "01515279010",
+}

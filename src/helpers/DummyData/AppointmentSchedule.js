@@ -1,0 +1,55 @@
+const AppointmentSchedule = [
+  {
+    date: '15',
+    month: 'Aug',
+    year: '2019',
+    docName: 'Dr. Saif Hasan',
+    speciality: 'Cardiology',
+    time: '10:00 AM',
+    chamber: 'chamber1',
+    key: '1',
+  },
+  {
+    date: '12',
+    month: 'Sep',
+    year: '2019',
+    docName: 'Dr. Mahmudul Hasan',
+    speciality: 'Cardiology',
+    time: '9:00 AM',
+    chamber: 'chamber1',
+    key: '2',
+  },
+  {
+    date: '20',
+    month: 'Sep',
+    year: '2019',
+    docName: 'Dr. Mahmudul Hasan',
+    speciality: 'Cardiology',
+    time: '9:00 AM',
+    chamber: 'chamber2',
+    key: '3',
+  },
+
+  {
+    date: '20',
+    month: 'Sep',
+    year: '2019',
+    docName: 'Dr. Mahmudul Hasan',
+    speciality: 'Cardiology',
+    time: '9:00 AM',
+    chamber: 'chamber2',
+    key: '4',
+  },
+
+  {
+    date: '20',
+    month: 'Sep',
+    year: '2019',
+    docName: 'Dr. Mahmudul Hasan',
+    speciality: 'Cardiology',
+    time: '9:00 AM',
+    chamber: 'chamber2',
+    key: '5',
+  },
+];
+export default AppointmentSchedule
